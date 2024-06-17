@@ -1,2 +1,1 @@
-# firstgit-1
-project
+This is sample mule project
